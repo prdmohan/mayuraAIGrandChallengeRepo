@@ -1,0 +1,11 @@
+Source 1: https://zephyrhours.github.io/sources.html
+Source 2: (Several Papers)
+       2.1: https://github.com/ZhaoxuLi123/SpecDETR
+       2.2: https://github.com/ZhehuiWu/MP-HSIR
+	    a. https://icvl.cs.bgu.ac.il/pages/researches/hyperspectral-imaging.html
+            b. https://engineering.purdue.edu/~biehl/MultiSpec/hyperspectral.html
+	    c. https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Pavia_University_scene
+	    d. Source of Some Key Data and good Descriptions from Iran: https://rslab.ut.ac.ir/data
+            e. https://figshare.com/articles/dataset/Main_zip/2007723/3?file=3576183
+       2.3: 
+Source 3: https://github.com/WiseGamgee/HyperAD?tab=readme-ov-file#datasets
