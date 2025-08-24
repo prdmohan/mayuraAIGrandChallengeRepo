@@ -1,0 +1,1 @@
+1. https://milvus.io/ai-quick-reference/how-can-vector-search-be-used-to-detect-anomalies-in-lidar-data

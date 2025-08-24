@@ -1,0 +1,9 @@
+Visual Search: 
+1. TerraPattern: (1) https://github.com/CreativeInquiry/terrapattern, (2) https://techcrunch.com/2016/05/25/terrapattern-is-a-neural-net-powered-reverse-image-search-for-maps/
+2. Semantic Search Qdrant: https://niranjanakella.medium.com/semantic-search-over-satellite-images-using-qdrant-86b0fc34c2dc
+3. VLM Visual Search: https://element84.com/machine-learning/towards-a-queryable-earth-with-vision-language-foundation-models/
+4. DL and Visual Search: https://medium.com/data-science/deep-learning-for-visual-searches-and-mapping-89b85061ef9e
+
+Small VLM:
+1. https://huggingface.co/blog/smolvlm
+2. 
