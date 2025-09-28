@@ -1,0 +1,24 @@
+metadata_version: 1
+name: Wildland Fire Detection and Monitoring using a Drone-collected RGB/IR Image
+  Dataset
+description: |-
+  This code is for the paper: Wildland Fire Detection and Monitoring using a Drone-collected RGB/IR Image Dataset (https://ieeexplore.ieee.org/document/9953997)
+  Please download the code from GitHub!!! Some paths in the code may be slightly changed.
+  GitHub address: https://github.com/XiwenChen-Clemson/Flame_2_dataset
+  Dataset address: https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset
+  For more detail, please see README.md or go to GitHub address.
+  If the code helps you, please cite us. Thanks:)
+tags:
+- wildfire detection
+- feature fusion
+- RGB/Thermal image
+authors:
+- name: Xiwen Chen
+  affiliations:
+  - name: Clemson University
+- name: Hao Wang
+  affiliations:
+  - name: Clemson University
+corresponding_contributor:
+  name: Xiwen Chen
+  email: xiwenc@g.clemson.edu

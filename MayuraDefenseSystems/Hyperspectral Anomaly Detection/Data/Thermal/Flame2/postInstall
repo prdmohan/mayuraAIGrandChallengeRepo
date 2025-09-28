@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -e
+
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+pip install matplotlib
+pip install pandas
+pip install scipy
+
+pip install numpy
+pip install torchmetrics
+pip install Pillow
