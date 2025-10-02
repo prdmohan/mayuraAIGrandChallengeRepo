@@ -1,0 +1,39 @@
+# Root directory of the dataset
+path: /Volumes/Portable/dota
+
+# Images and Labels
+train:
+  - images/train  # Relative path to training images
+  - labels/train  # Relative path to training labels
+
+val:
+  - images/val  # Relative path to validation images
+  - labels/val  # Relative path to validation labels
+
+# Classes
+names:
+  0: baseball-diamond
+  1: basketball-court
+  2: bridge
+  3: container-crane
+  4: ground-track-field
+  5: harbor
+  6: helicopter
+  7: large-vehicle
+  8: plane
+  9: roundabout
+  10: ship
+  11: small-vehicle
+  12: soccer-ball-field
+  13: storage-tank
+  14: swimming-pool
+  15: tennis-court
+
+# Number of classes
+nc: 16
+
+# Training hyperparameters
+base_batch_size: 16
+base_lr: 0.01
+epochs: 250
+save_period: 1
